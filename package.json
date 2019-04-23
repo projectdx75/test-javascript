@@ -8,6 +8,9 @@
   "scripts": {
     "test": "jest"
   },
+  "engines": {
+    "node": ">=10.15.3"
+  },
   "dependencies": {
     "dotenv": "^7.0.0",
     "joi": "^14.3.1",
